@@ -20,6 +20,33 @@ Install dependencies with:
 yarn
 ```
 
+## Serve
+We use [ed dev server](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server) a web server for development without bundling. 
+
+```bash
+# use the server without install it 
+npx es-dev-server --node-resolve --watch
+
+# install 
+npm i --save-dev es-dev-server
+```
+
+Add scripts to your package.json, modify the flags as needed:
+
+```json
+{
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  }
+}
+```
+
+And run the server: 
+
+```bash
+npm run start
+```
+
 ## Viewing the element
 
 First analyze the projcet then start up the included local webserver:
