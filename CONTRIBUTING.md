@@ -1,6 +1,6 @@
-# Contributing to PWA Lite
+# Contributing to Open-Source project into CICCIOSGAMINO Github's repos
 
-I'd love for you to contribute and make PWA Lite even better than it is today!
+I'd love for you to contribute and make this project even better than it is today!
 Here are the guidelines we'd like you to follow:
 
 - [Contributing to Project](#contributing-to-project)
