@@ -161,9 +161,18 @@ Since v11, release-it can be extended in many, many ways. Here are some plugins:
 
 Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/.../wiki/).
 
+## 📒 Attributes
+
+| Name  | Type | Description |
+| ------------- | ------------- | ------------- |
+| schematic  | Object | JavaScript Object with information about the minecraft structure |
+| schematicPath  | String | Path to .schematic file and alternative to the "schematic" Attribute |
+| texturePackPath  | String  | Path to the root of an unzipped texture pack |
+| zoom  | Number  | Zoom level of the view (default is 1.0) |
+
 ## Contributing
 
-Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/.../blob/master/docs/CONTRIBUTING.md).
+Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/CICCIOSGAMINO/init/blob/master/CONTRIBUTING.md).
 
 ## Author
 
@@ -172,20 +181,18 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 |                                    **@cicciosgamino**                                      	|
 
 ## Support
-
 Reach out to me at one of the following places:
 
-- Website at [@cicciosgamino](https://github.com/CICCIOSGAMINO)
-- Instagram Profile at **[@cicciosgamino](https://www.instagram.com/cicciosgamino/)**
-- E-Mail: **marco.canali@gmail.com**
+- [Github](https://github.com/CICCIOSGAMINO)
+- [Twitter](https://twitter.com/cicciosgamino)
 
 ## Donate
 
-Some link 
+Donate help and contibutions!
 
 ## License
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![GitHub](https://img.shields.io/github/license/cicciosgamino/progress-ring)
 
 - Copyright © [@cicciosgamino](https://cicciosgamino.web.app).
 
